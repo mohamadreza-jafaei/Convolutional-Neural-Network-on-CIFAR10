@@ -40,6 +40,7 @@ Once you have these libraries installed, download the cnn-cifar10.ipynb notebook
 
 
 To run the Jupyter Notebook, open your terminal and navigate to the directory where you saved the notebook. Then run the following command:
+
 ```
 jupyter notebook cnn-cifar10.ipynb
 ```
