@@ -38,9 +38,12 @@ Once you have these libraries installed, download the cnn-cifar10.ipynb notebook
 
 ## Running the Notebook
 
-To run the Jupyter Notebook, open your terminal and navigate to the directory where you saved the notebook. Then run the following command:
 
+To run the Jupyter Notebook, open your terminal and navigate to the directory where you saved the notebook. Then run the following command:
+```
 jupyter notebook cnn-cifar10.ipynb
+```
+
 This will open the notebook in your web browser. Follow the instructions in the notebook to load and preprocess the data, define the CNN model architecture, train the model, and evaluate its performance.
 
 ## Results
