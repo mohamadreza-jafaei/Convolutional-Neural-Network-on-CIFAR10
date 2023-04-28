@@ -6,10 +6,15 @@ This project is an implementation of Convolutional Neural Networks (CNNs) using 
 The project consists of a Jupyter Notebook that guides you through the following steps:
 
 0- Loading and Preprocessing the Data
+
 1- Defining the CNN Model Architecture
+
 2- Defining Optimizer and Loss
+
 3- Training the Model
+
 4- Evaluating the Model Performance
+
 
 ## Getting Started
 
